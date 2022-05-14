@@ -88,11 +88,13 @@ As you can see, after we input the customer's feature data and submit it, we wil
     * Pandas
     * Boto3
     * SQL
+    * HTML
 
 * Technologies
    * AWS S3, Athena, Crawker, Glue, Lambada, Eventbridge, SageMaker, API rest, SQS
    * Spark
    * Juypter Notebook
+   
 
 * Data Source Files  
 https://drive.google.com/file/d/1pNNVQxAnhbOvvAagUoTsvk-pPjSgr4GZ/view
