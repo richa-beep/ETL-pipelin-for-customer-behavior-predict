@@ -23,13 +23,13 @@ In this project, I built an auomation pipeline which mainly based on AWS run on 
 
 # ER Diagram
 
-![ER Diagram]()
+![ER Diagram](https://github.com/richa-beep/ETL-pipelin-for-customer-behavior-predict/blob/main/static/ER%20Diagram.png)
 
 # Data Pipeline
 
 Data Pipleline Overview
 
-![data pipeline image](https://github.com/richa-beep/ETL-pipelin-for-customer-behavior-predict/blob/54e7c6a05b7fd20b36deda955c54cc768745b0c9/static/photo_2022-04-16_19-25-05.jpg)
+![data pipeline image](https://github.com/richa-beep/ETL-pipelin-for-customer-behavior-predict/blob/main/static/data%20pipeline.jpg)
 
 * Some thoughts 
    * __AWS S3__ for storage data
