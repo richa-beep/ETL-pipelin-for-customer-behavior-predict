@@ -1,13 +1,15 @@
 # Table of Contents
 1. Introduction
 
-2. Data pipeline
+2. ER Diagram
 
-3. Requirements
+3. Data pipeline
 
-4. Enviroment Set UP
+4. Requirements
 
-5. Repository Structure and Run Instructions
+5. Enviroment Set UP
+
+6. Repository Structure and Run Instructions
 
 
 # Introduction
@@ -18,6 +20,10 @@
 The goal of this project is to provide processed data for data scientist predict customer wheather reorder the prodcuts. 
 
 In this project, I built an auomation pipeline which mainly based on AWS run on daily base. Also Web developers could interactive with results via API to enhance business strategies.  </p>
+
+# ER Diagram
+
+![ER Diagram]()
 
 # Data Pipeline
 
