@@ -1,0 +1,7 @@
+- Action:
+    Operation: GROUP_BY
+    Parameters:
+      groupByAggFunctionOptions: >-
+        [{"sourceColumnName":"add_to_cart_order","targetColumnName":"up_average_cart_position","targetColumnDataType":"bigint","functionName":"MEAN"},{"sourceColumnName":"order_number","targetColumnName":"up_last_order","targetColumnDataType":"bigint","functionName":"MAX"},{"sourceColumnName":"order_number","targetColumnName":"up_first_order","targetColumnDataType":"bigint","functionName":"MIN"},{"sourceColumnName":"order_id","targetColumnName":"up_orders","targetColumnDataType":"bigint","functionName":"COUNT"}]
+      sourceColumns: '["user_id","product_id"]'
+      useNewDataFrame: 'true'
