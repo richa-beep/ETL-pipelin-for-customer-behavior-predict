@@ -68,7 +68,18 @@ Data Pipleline Overview
 
  ![Final Result](https://github.com/richa-beep/ETL-pipelin-for-customer-behavior-predict/blob/main/static/Final%20Result.png)
 
+As you can see, after we input customer's feature data and submit, we will get the result show us customer is unlikely/likey to buy this product.
+
  # Future Work/Enhancement
+
+* Partitioning data
+  * Partition by seasons – purchase intention for hot pot products in blazing summer.
+  * Partition by department – accurately presents the products on ‘suggestions for you’ section in different catalog page.
+  * Partition by age - purchase intention for e-cigarette between young and old generation may vary a lot.
+
+* Staffing Strategy
+   * Involve with DevOps, Full Stack Developer to build the interface more user friendly, Data Analyst to build tableau dashboard to make the project more versatile and make it a parallel task.
+
 
  # Requirements
 
@@ -76,12 +87,15 @@ Data Pipleline Overview
     * Bash
     * Python 3.8
     * Pandas
+    * Boto3
+    * SQL
 
 * Technologies
    * AWS S3, Athena, Crawker, Glue, Lambada, Eventbridge, SageMaker, API rest, SQS
    * Spark
+   * Juypter Notebook
 
-* Downlod Data Files  
+* Data Source Files  
 https://drive.google.com/file/d/1pNNVQxAnhbOvvAagUoTsvk-pPjSgr4GZ/view
 
 
